@@ -16,7 +16,7 @@
   - Type in <code>php start.php</code><br/> The latest Version of the Documentation will be downloaded, converted to XML, parsed into an Array, convertoed to json and written into <i>test.json</i>.<br/> None of the converted XML's will be deleted after that so you can check them up too.
 
 ### How to
-  - Submit:<br/>&nbsp;&nbsp;&nbsp;&nbsp;[See above](####Issues).
+  - Submit:<br/>&nbsp;&nbsp;&nbsp;&nbsp;[See above](#issues).
   - Report a bug:<br/>&nbsp;&nbsp;&nbsp;&nbsp;
   Bugs are problems in code, in the functionality or in its UI design.<br/>&nbsp;&nbsp;&nbsp;&nbsp;
   You can submit them through the [Issues Page](https://github.com/Yokmp/atom-autocomplete-factorio/issues).
